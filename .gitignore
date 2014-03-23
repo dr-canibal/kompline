@@ -2,3 +2,4 @@ magento/.htaccess
 magento/app/etc/local.xml
 magento/var/*
 magento/media/*
+magento/downloader/*
